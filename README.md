@@ -44,7 +44,13 @@ SimpleTest is now one of the Git Repositories!
 
 Note: Uncheck the default to then choose your own Git repo address (the one you just created above). Typically do not want the workspace and the Git version control directory to be the same. Give the project a name.
 
-![Eclipse Local Repo Location](/images/eclipse9.png)
+![Eclipse Local Repo Choice](/images/eclipse9.png)
+
+2. Click Browse, then navigate to and choose the local Git repo
+
+![Eclipse Local Repo Location](/images/eclipse10.png)
+
+
 
 
 
