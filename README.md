@@ -2,13 +2,13 @@
 
 ## Part 1: From GitHub to Eclipse
 
-Step1: Create a simple public project on GitHub (this project) with two branches: master and brancher
+### Step1: Create a simple public project on GitHub (this project) with two branches: master and brancher
 
 ![GitHub Project](/images/github1.png)
 
 Note: This is for exposition. You don't have to do this! We will work with this repository (repo, from now on) for the Eclipse demonstration.
 
-Step 2: Add repository from GitHub to local Git
+### Step 2: Add repository from GitHub to local Git
 1. Window > Show View > Other
 
 ![Eclipse Show View](/images/eclipse1.png)
@@ -27,6 +27,15 @@ Step 2: Add repository from GitHub to local Git
 
 ![Eclipse Add Directory](/images/eclipse4.png)
 
-5. Next, be sure to Import all existing Eclipse Projects after clone finishes (default), then choose branches: typically master and the branch you want.
+5. Next, choose branches: typically master and the branch you want.
 
 ![Eclipse Choose Branches](/images/eclipse5.png)
+
+### Step 3: Add project to Eclipse Workspace
+1. File > New> PyDev Project
+
+![Eclipse Local Repo Location](/images/eclipse6.png)
+
+Note: Uncheck the default to then choose your own Git repo address (the one you just created above). Typically do not want the workspace and the Git version control directory to be the same.
+
+
