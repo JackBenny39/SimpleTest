@@ -54,6 +54,17 @@ SimpleTest is now in the Eclipse PyDev Package Explorer
 
 ![Eclipse PyDev Package](/images/eclipse11.png)
 
+### Step 4: Load the working branch, brancher
+All Git commands are via the Team dropdown menu choice. 
+
+1. Right click on the SimpleTest Package then Team > Switch To > Other
+
+![Eclipse Switch Branch](/images/eclipse12.png)
+
+2. Highlight (click on) the desirted branch (brancher), then click Checkout
+
+![Eclipse Checkout Branch](/images/eclipse13.png)
+
 
 
 
