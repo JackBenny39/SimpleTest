@@ -31,15 +31,19 @@ Note: This is for exposition. You don't have to do this! We will work with this 
 
 ![Eclipse Choose Branches](/images/eclipse5.png)
 
+Note: Uncheck the default to then choose your own Git repo address (the one you just created above). Typically do not want the workspace and the Git version control directory to be the same.
+
 ![Eclipse Local Repo Location](/images/eclipse6.png)
+
+SimpleTest is now one of the Git Repositories!
 
 ![Eclipse Local Repo Location](/images/eclipse7.png)
 
 ### Step 3: Add project to Eclipse Workspace
-1. File > New> PyDev Project
+1. File > New > PyDev Project
 
 ![Eclipse Local Repo Location](/images/eclipse8.png)
 
-Note: Uncheck the default to then choose your own Git repo address (the one you just created above). Typically do not want the workspace and the Git version control directory to be the same.
+
 
 
