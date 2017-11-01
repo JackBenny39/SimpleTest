@@ -12,6 +12,11 @@ Step 2: Add repository from GitHub to local Git
 1. Window > Show View > Other
 
 ![Eclipse Show View](/images/eclipse1.png)
+
 2. > Git > Git Repositories
 
 ![Eclipse Repo View](/images/eclipse2.png)
+
+3. Click button: Clone a Git Repository and add the clone to this view
+
+![Eclipse Repo Clone Button](/images/eclipse3.png)
