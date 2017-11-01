@@ -59,16 +59,21 @@ All Git commands are via the Team dropdown menu choice.
 
 1. Right click on the SimpleTest Package then Team > Switch To > Other
 
-![Eclipse Switch Branch](/images/eclipse12.png)
+![Eclipse Switch Branch 1](/images/eclipse12.png)
 
-2. Highlight (click on) the desirted branch (brancher), then click Checkout
+2. Highlight (click on) the desired branch (brancher), then click Checkout
 
-![Eclipse Checkout Branch](/images/eclipse13.png)
+![Eclipse Checkout Branch 1](/images/eclipse13.png)
 
+3. Checkout as New Local Branch
 
+![Eclipse Checkout Branch 2](/images/eclipse14.png)
 
+3. Create Local Branch
 
+![Eclipse Checkout Branch 3](/images/eclipse15.png)
 
+3. Eclipse Switched to brancher branch
 
-
+![Eclipse Switch Branch 2](/images/eclipse16.png)
 
