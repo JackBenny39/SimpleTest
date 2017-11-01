@@ -20,3 +20,7 @@ Step 2: Add repository from GitHub to local Git
 3. Click button: Clone a Git Repository and add the clone to this view
 
 ![Eclipse Repo Clone Button](/images/eclipse3.png)
+
+4. Copy/Paste GitHub repo URI to Window Directory
+
+![Eclipse Add Directory](/images/eclipse4.png)
