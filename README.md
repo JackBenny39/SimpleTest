@@ -26,3 +26,7 @@ Step 2: Add repository from GitHub to local Git
 ![GitHub URI](/images/github2.png)
 
 ![Eclipse Add Directory](/images/eclipse4.png)
+
+5. Next, be sure to Import all existing Eclipse Projects after clone finishes (default), then choose branches: typically master and the branch you want.
+
+![Eclipse Choose Branches](/images/eclipse5.png)
