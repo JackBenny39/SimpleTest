@@ -50,6 +50,12 @@ Note: Uncheck the default to then choose your own Git repo address (the one you 
 
 ![Eclipse Local Repo Location](/images/eclipse10.png)
 
+SimpleTest is now in the Eclipse PyDev Package Explorer
+
+![Eclipse PyDev Package](/images/eclipse11.png)
+
+
+
 
 
 
