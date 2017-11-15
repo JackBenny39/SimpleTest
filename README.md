@@ -93,5 +93,8 @@ Submit!
 ![GitHub Issue 2](/images/github_issue2.png)
 
 
+### Step 2: Mess about in Eclipse
 
+1. After cloning, create a new Branch in local
+![Eclipse Issue 1](/images/eclipse_issue1.png)
 
