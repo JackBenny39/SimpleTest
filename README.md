@@ -78,9 +78,12 @@ All Git commands are via the Team dropdown menu choice.
 ![Eclipse Switch Branch 2](/images/eclipse16.png)
 
 
+
 ## Part 2: Working on another's Project
 
 ### Step 1: Create an Issue in GitHub
 
-1. Go to GitHub > Issues
+1. Go to GitHub > Issues 
+
+2. Type in Title and Comments
 ![GitHub Issue 1](/images/github_issue1a.png)
