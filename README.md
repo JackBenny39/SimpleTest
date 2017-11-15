@@ -2,7 +2,7 @@
 
 ## Part 1: From GitHub to Eclipse
 
-### Step1: Create a simple public project on GitHub (this project) with two branches: master and brancher
+### Step 1: Create a simple public project on GitHub (this project) with two branches: master and brancher
 
 ![GitHub Project](/images/github1.png)
 
@@ -77,3 +77,10 @@ All Git commands are via the Team dropdown menu choice.
 
 ![Eclipse Switch Branch 2](/images/eclipse16.png)
 
+
+## Part 2: Working on another's Project
+
+### Step 1: Create an Issue in GitHub
+
+1. Go to GitHub > Issues
+![GitHub Issue 1](/images/github_issue1a.png)
