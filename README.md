@@ -87,3 +87,11 @@ All Git commands are via the Team dropdown menu choice.
 
 2. Type in Title and Comments
 ![GitHub Issue 1](/images/github_issue1a.png)
+Submit!
+
+3. Owner comments and requests that you clone the repo (see part 1, above), create a local branch, mess around, Push and Commit when necessary. Note: Push from Eclipse merely establishes the reference, you still have to Commit changes if you want to maintain version control in the remote.
+![GitHub Issue 2](/images/github_issue2.png)
+
+
+
+
