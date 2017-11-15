@@ -164,7 +164,7 @@ And, in master, the code does not reflect the changes in the summer branch
 ![Eclipse Issue 14](/images/eclipse_issue14.png)
 ![Eclipse Issue 15](/images/eclipse_issue15.png)
 
-Hit Okay
+Hit OK
 ![Eclipse Issue 16](/images/eclipse_issue16.png)
 
 master now reflects updated code
@@ -173,7 +173,7 @@ master now reflects updated code
 3. Delete summer branch from local
 ![Eclipse Issue 18](/images/eclipse_issue18.png)
 
-Choose summer and hit Okay or just double-click on summer
+Choose summer and hit OK or just double-click on summer
 ![Eclipse Issue 20](/images/eclipse_issue20.png)
 
 
