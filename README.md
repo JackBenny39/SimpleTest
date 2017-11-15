@@ -104,3 +104,15 @@ Submit!
 3. Make updates
 ![Eclipse Issue 3](/images/eclipse_issue3.png)
 
+4. Write a test
+![Eclipse Issue 4](/images/eclipse_issue4.png)
+
+5. Run the test - Use the green Start Button and choose Run As > Python unit-test
+![Eclipse Issue 5](/images/eclipse_issue5.png)
+
+6. It passed!
+![Eclipse Issue 6](/images/eclipse_issue6.png)
+
+
+
+
