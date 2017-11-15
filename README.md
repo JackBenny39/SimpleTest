@@ -155,7 +155,9 @@ Branch no longer available in GitHub
 
 1. summer branch is still available in Eclipse - switch to master
 ![Eclipse Issue 12](/images/eclipse_issue12.png)
+
 And, in master, the code does not reflect the changes in the summer branch
+
 ![Eclipse Issue 13](/images/eclipse_issue13.png)
 
 2. Pull master from remote GitHub - be sure to be in master in Eclipse
