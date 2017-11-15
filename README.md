@@ -98,6 +98,9 @@ Submit!
 1. After cloning, create a new Branch in local
 ![Eclipse Issue 1](/images/eclipse_issue1.png)
 
-2. Be sure the source is master (or whatever branch you want to clone from)
+2. Be sure the source is master (or whatever branch you want to clone from) and give the new branch a name
 ![Eclipse Issue 2](/images/eclipse_issue2.png)
+
+3. Make updates
+![Eclipse Issue 3](/images/eclipse_issue3.png)
 
