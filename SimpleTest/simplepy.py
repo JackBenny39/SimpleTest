@@ -1,3 +1,4 @@
 import numpy as np
 
-x = np.sum([1,2,3])
+def summer(arr):
+    return np.sum(arr)
