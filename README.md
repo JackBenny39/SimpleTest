@@ -113,6 +113,21 @@ Submit!
 6. It passed!
 ![Eclipse Issue 6](/images/eclipse_issue6.png)
 
+7. You can Push your new branch to establish it in GitHub
+![Eclipse Issue 7](/images/eclipse_issue7.png)
+
+![Eclipse Issue 8](/images/eclipse_issue8.png)
+
+8. Commit code changes when you are ready
+![Eclipse Issue 9](/images/eclipse_issue9.png)
+
+Note: the staged changes in the Git Staging menu
+![Eclipse Issue 10](/images/eclipse_issue10.png)
+
+After hitting Commit and entering credentials...
+![Eclipse Issue 11](/images/eclipse_issue11.png)
+The little yellow bars next the files indicate that your local and remote files are identical.
+
 
 
 
