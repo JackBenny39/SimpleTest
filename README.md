@@ -173,4 +173,8 @@ master now reflects updated code
 3. Delete summer branch from local
 ![Eclipse Issue 18](/images/eclipse_issue18.png)
 
+Choose summer and hit Okay or just double-click on summer
+![Eclipse Issue 20](/images/eclipse_issue20.png)
+
+
 
