@@ -128,6 +128,31 @@ After hitting Commit and entering credentials...
 ![Eclipse Issue 11](/images/eclipse_issue11.png)
 The little yellow bars next the files indicate that your local and remote files are identical.
 
+And, your commit is now reflected in GitHub
+![GitHub Issue 3](/images/github_issue3.png)
 
+### Step 3: Pull Request in Github
 
+1. Pull Request
+![GitHub Issue 4](/images/github_issue4.png)
+
+2. Type in Title and comment. Note: I forgot to reference the Issue - but this would be the place to do it!
+![GitHub Issue 5](/images/github_issue5.png)
+
+3. Owner Merges the PR - could solicit comments from others here, as well
+![GitHub Issue 6](/images/github_issue6.png)
+And, confirms
+![GitHub Issue 7](/images/github_issue7.png)
+
+4. Owner deletes branch on remote
+![GitHub Issue 9](/images/github_issue9.png)
+Success...
+![GitHub Issue 10](/images/github_issue10.png)
+Branch no longer available in GitHub
+![GitHub Issue 11](/images/github_issue11.png)
+
+### Step 4: Update local in Eclipse to reflect changes in master and branch in remote GitHub
+
+1. summer branch is still available in Eclipse - switch to master
+![Eclipse Issue 12](/images/eclipse_issue12.png)
 
