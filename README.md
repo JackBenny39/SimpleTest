@@ -126,7 +126,7 @@ Note: the staged changes in the Git Staging menu
 
 After hitting Commit and entering credentials...
 ![Eclipse Issue 11](/images/eclipse_issue11.png)
-The little yellow bars next the files indicate that your local and remote files are identical.
+The little yellow bars next to the files indicate that your local and remote files are identical.
 
 And, your commit is now reflected in GitHub
 ![GitHub Issue 3](/images/github_issue3.png)
@@ -155,4 +155,20 @@ Branch no longer available in GitHub
 
 1. summer branch is still available in Eclipse - switch to master
 ![Eclipse Issue 12](/images/eclipse_issue12.png)
+And, in master, the code does not reflect the changes in the summer branch
+![Eclipse Issue 13](/images/eclipse_issue13.png)
+
+2. Pull master from remote GitHub - be sure to be in master in Eclipse
+![Eclipse Issue 14](/images/eclipse_issue14.png)
+![Eclipse Issue 15](/images/eclipse_issue15.png)
+
+Hit Okay
+![Eclipse Issue 16](/images/eclipse_issue16.png)
+
+master now reflects updated code
+![Eclipse Issue 17](/images/eclipse_issue17.png)
+
+3. Delete summer branch from local
+![Eclipse Issue 18](/images/eclipse_issue18.png)
+
 
