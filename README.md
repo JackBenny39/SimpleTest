@@ -124,7 +124,7 @@ Submit!
 Note: the staged changes in the Git Staging menu
 ![Eclipse Issue 10](/images/eclipse_issue10.png)
 
-After hitting Commit and entering credentials...
+After hitting Commit and Push and entering credentials...
 ![Eclipse Issue 11](/images/eclipse_issue11.png)
 The little yellow bars next to the files indicate that your local and remote files are identical.
 
